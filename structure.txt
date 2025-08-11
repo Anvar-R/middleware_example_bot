@@ -1,0 +1,17 @@
+📁 middleware_example_bot
+├── 📁 config
+│   └── config.py
+├── 📁 filters
+│   └── filters.py
+├── 📁 handlers
+│   ├── other.py
+│   └── user.py
+├── 📁 lexicon
+│   └── lexicon.py
+├── 📁 middlewares
+│   ├── inner.py
+│   └── outer.py
+├── .env
+├── .env.example
+├── .gitignore
+└── main.py
